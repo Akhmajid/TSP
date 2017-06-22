@@ -1,0 +1,30 @@
+------------------------------------------
+|    Probleme du voyageur de commerce    |
+Generer un dataset aleatoire
+Charger un dataset
+Exporter les donnees du dataset
+Trouver une solution pour le probleme actuel
+Optimiser la solution actuelle
+Quitter
+Appuyez sur entree pour revenir au menu
+ERRORS
+Merci de selectionner un choix existant
+Erreur lors de la tentative d'allocation de memoire
+Impossible de trouver ce fichier
+Erreur lors de la sauvegarde : aucun fichier n'a pu etre lu ou cree
+ALGOS
+Algorithme du plus proche voisn
+Algorithme recuit-simule
+Algorithme 2-opt
+Utiliser l'algorithme classique
+Utiliser l'algorithme en ne travaillant que sur les arretes en aval (conseille pour les nombres au dela de 20)
+Operation terminee
+Veuillez patienter operation en cours
+Travail en cours ... Veuillez patienter (cela peut durer un certain temps)
+Sur quelle profondeur chercher des solutions exhaustives ?
+GRAPHS
+Combien de sommets desirez-vous generer ?
+Quel est le nom du fichier *.csv que vous souhaiter importer ?
+Un graphe est maintenant en memoire
+Le set de donnees a bien ete exporte
+EOF

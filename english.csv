@@ -1,0 +1,16 @@
+-------------------------------------
+|    Travelling Salesman Problem    |
+Generate a random dataset
+Load a dataset
+Export dataset
+Find a solution to this TSP
+Optimize this solution
+Generate a report (csv format)
+Quit
+ERRORS
+Please select an existing choice
+ALGOS
+Items algos
+GRAPHS
+How many vertex do you want to generate?
+EOF
